@@ -2,7 +2,7 @@
 
 ## 🧪 Test
 
-### Test Option: Implement Pawn Promotion  
+### Test: Implement Pawn Promotion  
 
 In chess, when a pawn reaches the opponent's back rank (8th for white, 1st for black), it must be promoted to **Queen**, **Rook**, **Knight**, or **Bishop**.  
 
